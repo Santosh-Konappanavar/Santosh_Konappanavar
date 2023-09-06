@@ -208,6 +208,6 @@ I would like to thank microverse for the opportunity to learn how to Code.
 
 ## 📝 License <a name="license"></a>
 
-This project is under [MIT](./LICENSE) licensed.
+This project is under [MIT](https://github.com/Santosh-Konappanavar/Santosh_Konappanavar/blob/main/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
