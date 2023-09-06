@@ -88,7 +88,7 @@ Together, these pages offer a comprehensive glimpse into my professional identit
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://santosh-konappanavar.github.io/Santosh_Konappanavar/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
